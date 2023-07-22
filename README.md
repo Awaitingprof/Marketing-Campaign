@@ -67,6 +67,8 @@ I will use the following process to achieve the project objectives:
 6.	Customer Complaints: Examine customer complaints and their relationship with campaign outcomes.
 ### Technologies Used
 The analysis will be conducted using popular SQL for analysis and Power Bi for visualization.
+### Contribution and Feedback
+Contributions and feedback are always welcome! If you find any issues with the analysis or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request. Your input will help enhance the project and make it a valuable resource for the community.
 
 
 
