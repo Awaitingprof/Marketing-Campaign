@@ -1,6 +1,6 @@
 # Marketing-Campaign
 The marketing campaign data of 2,240 customers of Maven Marketing. 
-The Analysis provides valuable insights into customer profiles, product preferences, campaign successes/failures, and channel performance. The dataset comprises various fields that shed light on customer characteristics, spending behavior, campaign acceptance, and more.
+The Analysis provides valuable insights into customer profiles, product preferences, campaign successes/failures, and channel performance. The dataset comprises various fields that shed light on customer characteristics, spending behavior, campaign acceptance,and more.
 ### Overview of the important columns:
 •	ID: Customer's unique identifier.
 •	Year_Birth: Customer's birth year.
